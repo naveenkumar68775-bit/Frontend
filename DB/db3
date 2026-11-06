@@ -1,9 +1,4 @@
-db.students.insertOne({
-    name: "Naveen",
-    age: 21,
-    department: "IT",
-    city: "Salem"
-})
+
 
 db.students.insertMany([
     {
@@ -25,3 +20,9 @@ db.students.insertMany([
         city: "Chennai"
     }
 ])
+
+create table NavigateEvent;
+
+use navigation;
+
+thunder;
