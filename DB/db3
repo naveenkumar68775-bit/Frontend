@@ -21,8 +21,7 @@ db.students.insertMany([
     }
 ])
 
-create table NavigateEvent;
-
-use navigation;
-
-thunder;
+naveen(
+    name:"Thunder",
+    place :"Coimbatore";
+)
